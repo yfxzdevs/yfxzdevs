@@ -9,7 +9,10 @@
 ### Langs! 🗽
 
 - Python 🐍
-- JavaScript/TypeScript 🌐
+- JS/TypeScript 🌐
+- Lua 🌙
+- Rust 🦀
+- C++/C# 👨‍💻
 - PHP 🕸️
 - HTML/CSS 🎨
 
