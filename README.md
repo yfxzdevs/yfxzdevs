@@ -27,8 +27,8 @@
 ### Contact! 🌐
 
 - Website: [yFxZ Hub](https://yfxz.xyz)
-- WebStore: [yFxZ Store](https://yfxz.store)
-- Discord: [yFxZ Coder](https://discord.com/users/1083377664569659473)
+- WebStore: [yFxZ Store](https://yfxz.shop)
+- Discord: [yFxZ Coder](https://discord.com/users/1235890802509479948)
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxz.ofc)
 - Telegram: [@yfxzcoder](https://t.me/yfxzcoder)
-- Pix: pix@yfxz.cloud
+- Pix: Soon...
