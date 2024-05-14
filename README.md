@@ -29,6 +29,6 @@
 - Website: [yFxZ Hub](https://yfxz.xyz)
 - WebStore: [yFxZ Store](https://yfxz.shop)
 - Discord: [yFxZ Coder](https://discord.com/users/1235890802509479948)
-- Instagram: [yFxZ Coder](https://www.instagram.com/yfxz.ofc)
+- Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 - Telegram: [@yfxzcoder](https://t.me/yfxzcoder)
 - Pix: Soon...
