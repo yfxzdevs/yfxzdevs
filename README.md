@@ -31,4 +31,4 @@
 - Discord: [yFxZ Coder](https://discord.com/users/1235890802509479948)
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 - Telegram: [@yfxzcoder](https://t.me/yfxzcoder)
-- Pix: Soon...
+- Pix: yfxz.xyz@gmx.com
