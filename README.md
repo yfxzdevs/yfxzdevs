@@ -1,4 +1,4 @@
-# yFxZ Coder 🚀
+# yFxZ Devs 🚀
   
 <div align="center">
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
@@ -11,10 +11,13 @@
 - Python 🐍
 - JS/TypeScript 🌐
 - Lua 🌙
-- Rust 🦀
-- C++/C# 👨‍💻
 - PHP 🕸️
 - HTML/CSS 🎨
+
+## Studying...
+
+- Rust 🦀
+- C++/C# 👨‍💻
 
 ### Developing... 💻
 
