@@ -29,6 +29,5 @@
 
 ### Contact! 🌐
 
-- Website All Contacts: [yFxZ Hub](https://yfxz.xyz)
-- Pix: 070.376.442-00
+- Website All Contacts: [yFxZ Hub](https://linktr.ee/yfxz)
 - PayPal: yfxz.ofc@gmail.com
