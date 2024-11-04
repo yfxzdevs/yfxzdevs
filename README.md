@@ -1,16 +1,17 @@
-# yFxZ Devs 🚀
+# yFxZDevs 🚀
 
 <div>
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF" width="200">
 </div>
 
-## About Me 🤖
+## Sobre Mim 🤖
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yfxz&show_icons=true&theme=dark" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfxz&layout=compact&theme=dark" height="180em">
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-000000?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img src="https://img.shields.io/badge/Programador_Backend-000000?style=for-the-badge&logo=serverless&logoColor=white">
+  <img src="https://img.shields.io/badge/Estudante_de_Programação-000000?style=for-the-badge&logo=academia&logoColor=white">
 </div>
 
-### Langs 💻
+### Linguagens 💻
 
 <div>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### Studing 📚
+### Estudando 📚
 
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-### Development 💡
+### Desenvolvimento 💡
 
 <div>
   <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/Websites-000000?style=for-the-badge&logo=firefox&logoColor=white">
 </div>
 
-### Contact 📬
+### Contato 📬
 
 <div>
   <a href="https://linktr.ee/yfxz">
