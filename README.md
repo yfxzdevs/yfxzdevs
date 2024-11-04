@@ -1,33 +1,35 @@
-# yFxZ Devs 🚀
-  
+# yFxZ Desenvolvimento de Software
+
 <div align="center">
-  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
+  <img src="https://github.com/yfxz.png" alt="yFxZ Logo" width="200">
 </div>
 
-## About Me 🤖
+## Sobre
 
-### Langs! 🗽
+Desenvolvedor Full Stack com experiência em diversas tecnologias e foco em soluções inovadoras.
 
-- Python 🐍
-- JS/TypeScript 🌐
-- Lua 🌙
-- PHP 🕸️
-- HTML/CSS 🎨
+### Tecnologias
 
-## Studying...
+#### Linguagens de Programação
+- Python
+- JavaScript/TypeScript 
+- Lua
+- PHP
+- HTML/CSS
 
-- Rust 🦀
-- C++/C# 👨‍💻
+#### Em Aprendizado
+- Rust
+- C++/C#
 
-### Developing... 💻
+### Áreas de Atuação
 
-- Api's 🧊
-- Discord Bots 🤖
-- Telegram Bots 📱
-- Back End & Front End Development 🌐
-- Websites 🌍
+- Desenvolvimento de APIs RESTful
+- Automação com Bots (Discord e Telegram)
+- Desenvolvimento Web Full Stack
+- Arquitetura de Software
+- Soluções Personalizadas
 
-### Contact! 🌐
+### Contato
 
-- Website All Contacts: [yFxZ Hub](https://linktr.ee/yfxz)
-- PayPal: yfxz.ofc@gmail.com
+- Portfolio e Contatos: [yFxZ Hub](https://linktr.ee/yfxz)
+- E-mail Profissional: yfxz.ofc@gmail.com
