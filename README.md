@@ -1,8 +1,4 @@
-# yFxZDevs 🚀
-
-<div>
-  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF" width="200">
-</div>
+# yFxZ
 
 ## Sobre Mim <img src="https://img.shields.io/badge/%20-🤖-000000?style=flat-square&logo=robot&logoColor=white">
 <div>
