@@ -1,33 +1,48 @@
-# yFxZ Devs ![rocket](https://img.shields.io/badge/-rocket-red?style=flat&logo=rocket)
-  
+# yFxZ Devs 🚀
+
 <div align="center">
-  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
+  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF" width="200">
 </div>
 
-## About Me ![robot](https://img.shields.io/badge/-robot-blue?style=flat&logo=robot)
+## About Me 🤖
 
-### Langs! ![code](https://img.shields.io/badge/-code-yellow?style=flat&logo=code)
+### Programming Languages 💻
 
-- Python ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-- JS/TypeScript ![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-- Lua ![lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua)
-- PHP ![php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-- HTML/CSS ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-## Studying...
+## Currently Learning 📚
 
-- Rust ![rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-- C++/C# ![cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
 
-### Developing... ![developer](https://img.shields.io/badge/-developer-green?style=flat&logo=developer)
+### Development 💡
 
-- Api's ![api](https://img.shields.io/badge/-API-gray?style=flat&logo=api)
-- Discord Bots ![discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)
-- Telegram Bots ![telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)
-- Back End & Front End Development ![web](https://img.shields.io/badge/-Web-orange?style=flat&logo=web)
-- Websites ![website](https://img.shields.io/badge/-Website-purple?style=flat&logo=website)
+<div align="center">
+  <img src="https://img.shields.io/badge/API-FF5733?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Websites-800080?style=for-the-badge">
+</div>
 
-### Contact! ![contact](https://img.shields.io/badge/-contact-blue?style=flat&logo=contact)
+### Contact 📬
 
-- Website All Contacts: [yFxZ Hub](https://linktr.ee/yfxz)
-- PayPal: yfxz.ofc@gmail.com
+<div align="center">
+  <a href="https://linktr.ee/yfxz">
+    <img src="https://img.shields.io/badge/yFxZ_Hub-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  <a href="mailto:yfxz.ofc@gmail.com">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</div>
